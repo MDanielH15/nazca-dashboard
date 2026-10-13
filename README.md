@@ -69,5 +69,3 @@ Al conectar, el dashboard solicita nivel 0 para ambos motores.
 
 Cambiar de selector no envía comandos ni modifica velocidades.
 
-Cuando los motores tienen niveles diferentes y se selecciona Ambos motores,
-el indicador muestra **MIXTO**. Elegir un nivel iguala ambas consignas.
